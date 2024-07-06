@@ -80,4 +80,4 @@ Thanks to the kaggle for supplying the dataset.
 Gratitude to the open-source community for providing the tools and libraries used in this project.
 
 ## Contact
-For any inquiries, please contact ara.kumarritik.
+For any inquiries, please contact ara.kumarritik@gmail.com.
